@@ -1,2 +1,2 @@
 # phyton_1
-Estudo em phyton
+Este código se trata de uma serviço de um PetShop
