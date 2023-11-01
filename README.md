@@ -1,2 +1,2 @@
 # phyton_1
-Este código se trata de um serviço de um PetShop
+Este código se trata de softwate destinao a um PetShop.
